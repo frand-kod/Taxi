@@ -1,6 +1,0 @@
-Z:\Tugas\visual sudio\Class_dan_Object_taxi\Class_dan_Object_taxi\bin\Debug\Class_dan_Object_taxi.exe.config
-Z:\Tugas\visual sudio\Class_dan_Object_taxi\Class_dan_Object_taxi\bin\Debug\Class_dan_Object_taxi.exe
-Z:\Tugas\visual sudio\Class_dan_Object_taxi\Class_dan_Object_taxi\bin\Debug\Class_dan_Object_taxi.pdb
-Z:\Tugas\visual sudio\Class_dan_Object_taxi\Class_dan_Object_taxi\obj\Debug\Class_dan_Object_taxi.csprojResolveAssemblyReference.cache
-Z:\Tugas\visual sudio\Class_dan_Object_taxi\Class_dan_Object_taxi\obj\Debug\Class_dan_Object_taxi.exe
-Z:\Tugas\visual sudio\Class_dan_Object_taxi\Class_dan_Object_taxi\obj\Debug\Class_dan_Object_taxi.pdb
