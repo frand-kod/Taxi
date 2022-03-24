@@ -30,7 +30,7 @@ namespace Class_dan_Object_taxi
         }
         public void DropOffPassengger()
         {
-            Console.WriteLine("{0} sedang menjemput penumpang", DrivName);
+            Console.WriteLine("{0} sudah mengantar penumpang", DrivName);
         }
     }
 
